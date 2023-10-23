@@ -1,2 +1,2 @@
 // Author Audrey Woodham, Joey Wesselman
-// Description: Hello World in C++
+// Description: Hello World Function 1
